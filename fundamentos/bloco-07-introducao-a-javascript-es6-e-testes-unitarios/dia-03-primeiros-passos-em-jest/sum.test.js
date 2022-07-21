@@ -1,4 +1,4 @@
-const {sum, myRemove} = require('./sum');
+const {sum, myRemove, myFizzBuzz} = require('./sum');
 
 describe('A função sum deve retornar o valor de a + b', () => {
     it('Testa se a soma de 4 e 5 é 9', () => {
@@ -35,3 +35,7 @@ describe('A função myRemove(arr, item) recebe um array arr e retorna uma cópi
         expect([1, 2, 3, 4]).toEqual(myRemove([1, 2, 3, 4], 5));
     })
 });
+
+describe('A função myFizzBuzz(num) recebe um número num e retorna "fizzbuzz" se o número for divisível por 3 e 5, retorna "fizz" se for divisível apenas por 3, retorna "buzz" se divisível apenas por 5, retorna o próprio número caso não seja divisível por 3 ou 5 e retorna false caso num não seja um número', () => {
+    
+})
