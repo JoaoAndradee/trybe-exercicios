@@ -38,7 +38,7 @@ Aqui aprendemos sobre:
    8. Projeto - Meme Generator
    9. Projeto - Advinhe a Cor
    10. Projeto - Carta Misteriosa
-- [ ] Html e CSS: forms, flexbox e responsividade
+- [x] Html e CSS: forms, flexbox e responsividade
    - [x] HTML & CSS - Forms
    - [x] Bibliotecas Javascript e Frameworks CSS
    3. Introdução - CSS Flexbox
