@@ -52,3 +52,9 @@ Aqui aprendemos sobre:
    3. Primeiros passos em Jest
    4. Projeto - Javascript Testes Unitários
 8. Higher order functions do javascript es6
+   - 01[x] JAVASCRIPT ES6 - Introdução a Higher Order Functions
+   - 02[ ] JAVASCRIPT ES6 - Higher Order Functions - forEach, find, some, every, sort
+   - 03[ ] JAVASCRIPT ES6 - Higher Order Functions - map e filter
+   - 04[ ] JAVASCRIPT ES6 - Hgiher Order Functions - reduce
+   - 05[ ] JAVASCRIPT ES6 - spread operator, parâmetro rest, destructuring e mais.
+   - 06[ ] PROJETO - Zoo Functions. 
