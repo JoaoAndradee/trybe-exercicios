@@ -14,4 +14,6 @@ const newEmployees = (callback) => {
     return employees;
 };
 
+// newEmployees();
+
 console.log(newEmployees(pessoaContratada));
