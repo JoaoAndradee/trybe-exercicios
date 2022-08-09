@@ -14,4 +14,6 @@ const newEmployees = (callback) => {
     return employees;
 };
 
+// dia de projeto
+
 console.log(newEmployees(pessoaContratada));
