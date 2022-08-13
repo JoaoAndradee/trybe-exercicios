@@ -19,5 +19,6 @@ const newEmployees = (callback) => {
 // mais um dia de projeto (zooFunctions)
 // another project day (zooFunctions);
 // Outro dia de projeto zooFunctions;
+// ZooFunctions dia de projeto, quase finalizando.
 
 console.log(newEmployees(pessoaContratada));
