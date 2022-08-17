@@ -17,5 +17,6 @@ const newEmployees = (callback) => {
 // Projeto zooFunctions finalizado
 // Comecando o projeto Shooping Cart
 // Dia 01 projeto shopping cart (ontem 15/08/23 resolvi descansar a mente )
+// Dia 02 projeto shopping cart
 
 console.log(newEmployees(pessoaContratada));
