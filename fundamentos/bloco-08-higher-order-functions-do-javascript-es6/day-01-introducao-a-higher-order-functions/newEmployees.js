@@ -25,5 +25,6 @@ const newEmployees = (callback) => {
 // Dia 07 projeto shopping cart
 // Dia 01 projeto solar system - Finalizado no mesmo dia
 // Dia 01 projeto tryunfo
+// Dia 02 projeto tryunfo
 
 console.log(newEmployees(pessoaContratada));
