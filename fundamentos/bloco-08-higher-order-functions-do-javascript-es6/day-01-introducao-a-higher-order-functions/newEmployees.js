@@ -30,7 +30,7 @@ const newEmployees = (callback) => {
 // Dia 04 projeto tryunfo
 // Dia 05 projeto tryunfo
 // Dia 06 projeto tryunfo
-// Dia 07 projeto tryunfo 
+// Dia 07 projeto tryunfo - requisitos 05, 06 e 07
 // Dia 08 projeto tryunfo
 
 
