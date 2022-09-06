@@ -38,5 +38,6 @@ const newEmployees = (callback) => {
 // Dia 03 projeto trybetunes
 // Dia 04 projeto trybetunes
 // Dia 05 projeto trybetunes
+// Dia 06 projeto trybetunes
 
 console.log(newEmployees(pessoaContratada));
