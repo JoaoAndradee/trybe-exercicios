@@ -45,5 +45,6 @@ const newEmployees = (callback) => {
 // Dia 08 projeto trybetunes
 // Dia 09 projeto trybetunes
 // Dia 10 projeto trybetunes - Finalizado
+// Introducao ao React Testing Library
 
 console.log(newEmployees(pessoaContratada));
