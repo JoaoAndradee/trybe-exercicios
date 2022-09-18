@@ -13,15 +13,7 @@ class App extends React.Component {
     const API_URL = 'https://icanhazdadjoke.com/';
     fetch(API_URL, { headers: { Accept: 'application/json '} })
       .then((response) => response.json())
-      .then((data) => this.setState({ joke: data.joke }));
-  }
-
-  fetchJoke() {
-    const API_URL = 'https://icanhazdadjoke.com/';
-    const REQUEST_CONFIG = { headers: { Accept: 'application/json' } };
-    fetch(API_URL, REQUEST_CONFIG)
-      .then((response) => response.json())
-      .then((data) => this.setState({ joke: data.joke }));
+      .then(({ joke }) => this.setState({ joke }));
   }
 
   render() {
@@ -29,7 +21,7 @@ class App extends React.Component {
 
     return (
       <div className="App">
-        <p>{joke}</p>
+        {joke}
       </div>
     );
   }
