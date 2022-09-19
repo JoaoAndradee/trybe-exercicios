@@ -46,4 +46,5 @@ it('Verifica se ao renderizar a página a primeira piada é exibida na tela', as
   const newJoke = await screen.findByText("What do you call a duck that gets all A's? A wise quacker.")
   expect(newJoke).toBeInTheDocument();
   // expect(fetch).toHaveBeenCalledTimes(2);
+
 })
