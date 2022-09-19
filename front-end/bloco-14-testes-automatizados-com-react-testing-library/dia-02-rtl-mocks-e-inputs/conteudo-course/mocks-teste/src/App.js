@@ -22,6 +22,7 @@ class App extends React.Component {
     return (
       <div className="App">
         {joke}
+        <p><button type="button" onClick={() => window.location.reload()} >New Joke</button></p>
       </div>
     );
   }
