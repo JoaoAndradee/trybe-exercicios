@@ -13,23 +13,29 @@ class ColorBox extends React.Component {
       {
         backgroundColor: 'yellow',
       }
-    ]
+    ],
+    selectedColor: { color: 'white' },
   }
 
   handleClickColor = () => {
-    const { color } = this.state;
-    const index = Math.floor(Math.random * 2);
-    console.log(color[index]);
-    return color[index];
+    const { color, selectedColor } = this.state;
+    const index = Math.round(Math.random() * 2);
+    this.setState({
+      selectedColor: {
+        ...selectedColor,
+        ...color[index],
+      }
+    })
   }
 
   render() {
+    const { selectedColor } = this.state;
     return (
       <MyContext.Provider>
         <button
           type="button"
           className="box"
-          style={ }
+          style={selectedColor}
           onClick={this.handleClickColor}
         >
           Click me to change my color
