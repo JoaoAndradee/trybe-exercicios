@@ -15,7 +15,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 2: Git & GitHub
 
-- [] 2-1: _O que é e para que serve?_
+- [ ] 2-1: _O que é e para que serve?_
 - [] 2-2: _Entendendo os comandos_
 - [] 2-3: _Internet - Entendendo como ela funciona_
 
@@ -76,7 +76,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Introdução ao Frontend e JavaScript assíncrono
 
-- [] 1-1: _JavaScript Assíncrono e Callbacks_
+- [ ] 1-1: _JavaScript Assíncrono e Callbacks_
 - [] 1-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [] 1-3: _Jest - Testes Assíncronos_
 - [x] 1-4: _[Projeto - Carrinho de compras]()_
