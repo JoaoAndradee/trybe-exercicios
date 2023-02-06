@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [x] 8-6: _[Projeto - Zoo functions]()_
 
-## Front-end
+## ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Seção 1: Introdução ao Frontend e JavaScript assíncrono
 
